@@ -19,3 +19,5 @@ To restore hidden icons use the lower right button.
 The original image can be found here: https://i.imgur.com/c1Z62Q2.jpg.
 
 The icons can be found here: https://github.com/SLywnow/hi-themes-refind.
+
+Some icons taken from: https://github.com/bobafetthotmail/refind-theme-regular
